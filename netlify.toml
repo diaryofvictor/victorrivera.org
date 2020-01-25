@@ -7,6 +7,13 @@
     X-Frame-Options = "SAMEORIGIN"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
+[[redirects]]
+  from = "https://reverent-lamport-34e4a7.netlify.com/*"
+  to = "https://victorrivera.org/:splat"
+
+  status = 301
+  force = true
+
 [build]
   publish = "public"
   command = "hugo --gc --minify"
