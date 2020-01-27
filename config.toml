@@ -1,3 +1,14 @@
 baseURL = "https://victorrivera.org/"
 languageCode = "en-us"
 title = "Victor Rivera"
+theme = "hugo-cactus-theme"
+
+[params]
+  name = "Victor Rivera"
+  bio = "Learning and working."
+  enableRSS = true
+  iconFont = "mono-social"
+  socialIconStyle = "circle"
+
+[social]
+  facebook = "https://www.facebook.com/diaryofvictor"
