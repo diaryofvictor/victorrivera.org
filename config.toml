@@ -6,7 +6,7 @@ theme = "hugo-cactus-theme"
 [params]
   name = "Victor Rivera"
   bio = "Learning and working."
-  enableRSS = true
+  enableRSS = false
   iconFont = "mono-social"
   socialIconStyle = "circle"
 
