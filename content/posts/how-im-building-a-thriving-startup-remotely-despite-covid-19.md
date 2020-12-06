@@ -1,7 +1,7 @@
 ---
 title: "How I'm building a thriving startup remotely despite COVID-19"
 date: 2020-05-15T08:00:00+08:00
-description: "Embracing the perks of building a startup without an office."
+description: "Perks of building a startup without an office."
 draft: false
 ---
 
@@ -27,6 +27,7 @@ The reality is working, let alone running a business, during a lockdown is chall
 
 All this may be coming from the perspective of someone running a tech startup, but I do believe a lot of these tips do work for other types of businesses as well. <em>Use them wisely</em>.
 
+<ol>
 1. **Realize you’ve already done it to an extent.** During the start of our transition to remote work, it was scary to think about the idea that work wouldn’t get done. We never actually had an office, but we did work together in coffee shops — and work got done. Then I thought about how that only covered a small part of our day. Majority of our actual work was getting done in the morning or at night, at times we were most productive. Realizing that things were getting done outside of our personal interactions paved the way for the shift to remote work.
 
 2. **Low overhead cost. Happier employees. More work is done.** Let’s consider two realities: office space is expensive, and traffic is everywhere. One consideration for startup success is to build a beautiful office space, and that’s what I did in the first startup I ran. We got a nice office in central BGC only to realize that my team members were commuting 3–4 hours in total daily. As frustrating as it was for them, it was equally as frustrating to me knowing that they were not able to do their best work due to how tired they were. We can all assume how this turned out.</li>
@@ -46,6 +47,7 @@ All this may be coming from the perspective of someone running a tech startup, b
 9. **Your job is to make sure that they’re able to deliver.** As a founder, part of your job is to make sure that your team can deliver on what’s needed to push the business forward. I’ve learned this the hard way too many times. Either I’ve spent placing in too much work that our team can’t manage to deliver on everything, or I’ve done too little delegation, which is just as bad for morale. Working remotely, you need to know the ins and outs of what you’re having the team work on. This is because you won’t be there to watch every move of your employees. Do this right, and the benefits are great!
 
 10. **We are humans, and we thrive through social interaction.** Things may be remote within the company, but don’t forget that getting together in-person is still something that can be done. So every few weeks, spend time with one another even if it’s outside of work. Once this lockdown is over, don’t hesitate to treat your team to a lunch out.
+</ol>
 
 The reality is that we’re all experiencing tough times right now.
 
